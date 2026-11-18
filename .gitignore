@@ -19,3 +19,7 @@ gmon.out
 perf/
 *.swp
 result.txt
+log_*.txt
+*.data.old
+pivot_dbg
+pivot_fp

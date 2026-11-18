@@ -29,7 +29,7 @@ double SumDistance(const int k, const int n, const int dim, double* coord, int* 
     double chebyshevSum = 0;
     for(i=0; i<n; i++){
         int j;
-        for(j=0; j<n; j++){
+        for(j=i+1; j<n; j++){
             double chebyshev = 0;
             int ki;
             for(ki=0; ki<k; ki++){
@@ -39,7 +39,7 @@ double SumDistance(const int k, const int n, const int dim, double* coord, int* 
             chebyshevSum += chebyshev;
         }
     }
-
+    chebyshevSum *= 2.0;
     free(rebuiltCoord);
 
     return chebyshevSum;
