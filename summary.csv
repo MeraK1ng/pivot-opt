@@ -1,0 +1,6 @@
+﻿binary,runs,mean_s,median_s,stdev_s,cv,speedup,correct
+pivot_O0,3,499.106,498.670,0.914,0.2%,1.00,OK
+pivot_O1,3,97.575,97.618,0.130,0.1%,5.12,OK
+pivot_O2,3,72.638,72.658,0.133,0.2%,6.87,OK
+pivot_O3,3,56.251,56.091,0.339,0.6%,8.87,OK
+pivot_native,3,62.256,62.178,0.143,0.2%,8.02,OK

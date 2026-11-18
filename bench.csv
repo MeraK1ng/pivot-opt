@@ -1,0 +1,16 @@
+binary,round,time_ms,correct
+pivot_O0,1,500156.337000,yes
+pivot_O1,1,97429.555000,yes
+pivot_O2,1,72658.423000,yes
+pivot_O3,1,56090.643000,yes
+pivot_native,1,62168.366000,yes
+pivot_O0,2,498491.291000,yes
+pivot_O1,2,97678.357000,yes
+pivot_O2,2,72760.575000,yes
+pivot_O3,2,56021.583000,yes
+pivot_native,2,62421.419000,yes
+pivot_O0,3,498669.503000,yes
+pivot_O1,3,97617.788000,yes
+pivot_O2,3,72496.244000,yes
+pivot_O3,3,56639.986000,yes
+pivot_native,3,62177.983000,yes
